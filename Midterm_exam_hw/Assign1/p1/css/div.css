@@ -39,7 +39,6 @@
     width: 80%;
     background: rgb(197, 241, 76);
     float: right;
-    font-size: 40px;
 }
 
 #section {
@@ -61,8 +60,7 @@
     width: 92%;
     background: rgb(63, 73, 128);
     margin: 7px auto;
-    color: white;
-    font-size: 16px;
+
 }
 .clearfix{
     clear: both;
@@ -70,9 +68,9 @@
 
 .smell_pic {
     height: 100px;
-    width: 13%;
+    width: 90px;
     background: rgb(126, 138, 202);
-    margin: 30px 20px;
+    margin: 30px 7px;
     padding: 0px 10px;
     color: white;
     float: left;
