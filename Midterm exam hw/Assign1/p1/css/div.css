@@ -1,0 +1,89 @@
+#header {
+    height: 70px;
+    width: 80%;
+    background: rgb(245, 245, 183);
+    text-align: left;
+    float: right;
+}
+
+#logo {
+    height: 70px;
+    width: 20%;
+    background: rgb(231, 231, 82);
+    text-align: left;
+    float: left;
+    font-size: 30px;
+
+
+}
+
+#aside {
+    height: 750px;
+    width: 20%;
+    background: rgb(53, 66, 17);
+    float: left;
+    font-size: 30px;
+    color: white;
+}
+
+#nav {
+    height: 670px;
+    width: 90%;
+    background: rgb(93, 228, 138);
+    margin: 0px 20px;
+    color: black;
+}
+
+#article {
+    height: 750px;
+    width: 80%;
+    background: rgb(197, 241, 76);
+    float: right;
+    font-size: 40px;
+}
+
+#section {
+    height: 680px;
+    width: 95%;
+    background: rgb(152, 230, 230);
+    margin: 0px 40px;
+}
+
+#display {
+    height: 400px;
+    width: 80%;
+    background: rgb(142, 157, 243);
+    margin: 0px 150px;
+}
+
+#picContainer {
+    height: 200px;
+    width: 92%;
+    background: rgb(63, 73, 128);
+    margin: 7px auto;
+    color: white;
+    font-size: 16px;
+}
+.clearfix{
+    clear: both;
+}
+
+.smell_pic {
+    height: 100px;
+    width: 13%;
+    background: rgb(126, 138, 202);
+    margin: 30px 20px;
+    padding: 0px 10px;
+    color: white;
+    float: left;
+    font-size: 25px;
+}
+
+#footer {
+    height: 15%;
+    width: 100%;
+    background: darkgray;
+    font-size: 50px;
+   
+   
+}
