@@ -1,0 +1,89 @@
+
+  
+  header{
+      width: 75%;
+      height: 80px;
+      background-color: #330000;
+  }
+  
+  h1#text1{
+      position: absolute;
+      color: rgb(255, 255, 255);
+      margin-top: 20px;
+      margin-left: 110px;
+      font-family: Microsoft JhengHei;
+  }
+  
+  aside{
+      width: 75%;
+      height: 60px;
+      background-image: url(../images/bg.jpg);
+  }
+  
+  article{
+      width: 75%;
+      height: 700px;
+      margin-left: 0px;
+      background-color: rgb(248, 248, 242)
+  }
+  
+  footer{
+      width: 75%;
+      height: 50px;
+      background-color: #330000;
+      color: #FFFFFF;
+      text-align: center;
+      line-height: 50px;
+  }
+  
+  nav{
+      margin-top: 0px;
+     
+  }
+  
+  nav ul{
+      padding: 10px;
+      list-style: none;
+      margin: 0px;
+
+  }
+  
+  nav ul li{
+      float: left;
+  }
+  nav ul li a{
+      display: block;
+      width: 150px;
+      height: 42px;
+      background-image: url(../images/btn.png);
+      text-indent: 50px;
+      line-height: 35px;
+  }
+  
+  nav ul li a:hover{
+      background-image: url(../images/btn_hover.png);
+      color: white;
+  }
+  
+  img{
+      width: 120px;
+      margin: 3px;
+      border-radius: 15px;
+  }
+  
+  .consection{
+      width: 400px;
+      margin: 0px auto;
+      padding: 20px;
+  }
+  .clearfix{
+    clear: both;
+}
+  
+  fieldset{
+      border-radius: 10px;
+  }
+  
+  fieldset legend{
+      text-align: center;
+  }

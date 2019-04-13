@@ -1,0 +1,47 @@
+#container {
+    height: 100%;
+    width: 630px;
+    border: 5px solid purple;
+    padding: 0px;
+    margin: 0px 20%;
+}
+
+h1 {
+    margin: 10px;
+}
+
+#header {
+    height: 60px;
+    width: 630px;
+    background-color: rgba(151, 132, 24, 0.664);
+    text-align: center;
+    margin: 0px 0px;
+    padding: 1px;
+}
+
+#menu {
+    height: 30px;
+    width: 628px;
+    background-color: rgba(255, 241, 161, 0.986);
+    margin: 0px 0px;
+    padding: 1px;
+
+}
+
+.bottom {
+    height: 20px;
+    width: 80px;
+background-color: rgba(238, 236, 243, 0.842);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 15px;
+    font-family: DFKai-sb;
+    padding:2px 2px;
+    margin: 2px 1.5% ;
+    float: left;
+}
+#content{
+    height: 480px;
+    width: 630px;
+
+}
