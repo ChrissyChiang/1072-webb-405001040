@@ -1,0 +1,51 @@
+body{
+    background: #1d1c1c;
+}
+
+#container{
+width: 350px;
+background: gray;
+margin: 40px auto;
+
+
+}
+h1{
+text-align: center;
+color: #ffffff;
+padding-bottom: 20px;
+
+}
+#board li{
+width: 70px;
+height: 70px;
+background: #333333;
+margin: 10px;
+list-style: none;
+color:#ffffff;
+font-size: 55px;
+text-align: center; 
+float: left;
+}
+.clearfix{
+clear: both;
+}
+
+footer{
+text-align: center;
+padding :20px;
+}
+#reset{
+width: 70%;
+background: #444;
+color: #ffffff;
+padding: 15px;
+border-radius: 5px;
+}
+.O{
+    color: green !important;
+
+}
+.X{
+    color: red !important;
+
+}
